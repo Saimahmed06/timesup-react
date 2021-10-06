@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.card-con{
+ float: left;
+padding-left: 3%;
+}
+.card-two{
+  float: left;
+  padding-left: 10%;
+
+}
+.card-three{
+  padding-left: 70%;
+ 
+}
+.headnav{
+  background-color: rgb(61, 58, 240);
+}
+.contact-form{
+  margin-left: 400px;
+  margin-top: 110px;
+}
